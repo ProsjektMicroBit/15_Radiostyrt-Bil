@@ -1,9 +1,10 @@
 # Radiostyrt-Bil
 Vi lager et radiostyrt bil med micro:bit og "buggy kit" fra Kitronik. 
 
-PXT prosjekt: ___link til prosjektet___
+PXT prosjekt: https://makecode.microbit.org/_1YCDgUDWXC7h
 
-PXT-pakken for Motor Driver kortet:  https://github.com/KitronikLtd/pxt-kitronik-motor-driver 
+PXT-pakken for Motor Driver kortet:  https://github.com/KitronikLtd/pxt-kitronik-motor-driver
+
 Monteringsbeskrivelse og utstyrsliste: https://www.kitronik.co.uk/blog/bbc-microbit-line-following-buggy/ 
 
 Utstyrsliste:
