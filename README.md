@@ -11,7 +11,7 @@ Utstyrsliste:
 - Line Following Buggy for the BBC micro:bit (Kitronik) https://www.kitronik.co.uk/5604-line-following-buggy-for-the-bbc-microbit.html	
 - 4xAA batterier
 
-ELLER
+*ELLER*
 
 - 2x micro:bit
 - 2x 6V hobby motor (forslag: https://www.kitronik.co.uk/2547-right-angle-geared-hobby-motor.html)
