@@ -27,6 +27,3 @@ Utstyrsliste:
 - 8x6mm skruer
 - 4xAA batterier
 - Batteriholder (https://www.kitronik.co.uk/2222-4xaa-covered-battery-holder-with-switch-and-leads.htm) 
-
-
-Musikk: "Pookatori and Friends" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License https://creativecommons.org/licenses/by/3.0/
